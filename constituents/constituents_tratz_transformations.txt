@@ -1,0 +1,140 @@
+pork barrel -> pork_barrel
+runner-up -> runner_up
+buy-out -> buyout
+program trading -> program_trading
+stock market -> stock_market
+couch potato -> couch_potato
+no-fly -> no_fly
+bank teller -> bank_teller
+credit card -> credit_card
+sell-offs -> sell_offs
+expense account -> expense_account
+roll call -> roll_call
+thrift industry -> thrift_industry
+round-table -> roundtable
+spanish language -> spanish_language
+balance-of-payments -> balance_of_payments
+stock fund -> stock_fund
+department-store -> department_store
+dial tone -> dial_tone
+brokerage house -> brokerage_house
+strike force -> strike_force
+opening-up -> opening_up
+air freight -> air_freight
+paper company -> paper_company
+health care -> healthcare
+high-yield -> high_yield
+one-out -> one_out
+top-10 -> top_10
+start up -> startup
+soft drink -> soft_drink
+arms-for-hostages -> arms_for_hostages
+nursing home -> nursing_home
+gold leaf -> gold_leaf
+life insurance -> life_insurance
+working girl -> working_girl
+bond trading -> bond_trading
+real-estate -> real_estate
+twin-deficit -> twin_deficit
+market-maker -> market_maker
+root canal -> root_canal
+liquid nitrogen -> liquid_nitrogen
+tractor-trailer -> tractor_trailer
+home building -> home_building
+non-member -> non_member
+heavy truck -> heavy_truck
+fetal tissue -> fetal_tissue
+anti-intellectualism -> anti_intellectualism
+co-chief -> co_chief
+tax loss -> tax_loss
+third-quarter -> third_quarter
+one-third -> one_third
+stock-market -> stock_market
+write-off -> write_off
+write-down -> write_down
+energy cogeneration -> energy_cogeneration
+at-bat -> at_bat
+pre-tax -> pretax
+space station -> space_station
+high-society -> high_society
+oil-leasing -> oil_leasing
+organized crime -> organized_crime
+front runner -> front_runner
+fourth-quarter -> fourth_quarter
+gold mining -> gold_mining
+coffee shop -> coffee_shop
+non-warranty -> non_warranty
+floating rate -> floating_rate
+foster child -> foster_child
+law enforcement -> law_enforcement
+small business -> small_business
+mopping-up -> mopping_up
+income tax -> income_tax
+co-manager -> co_manager
+upper income -> upper_income
+bankruptcy law -> bankruptcy_law
+health-care -> healthcare
+exchange rate -> exchange_rate
+air conditioning -> air_conditioning
+interest rate -> interestrate
+fact finding -> fact_finding
+fixed income -> fixed_income
+three judge -> three_judge
+co-op -> co_op
+four-wheel-drive -> four_wheel_drive
+real estate -> real_estate
+stock appreciation -> stock_appreciation
+junk-bond -> junk_bond
+public address -> public_address
+classified ad -> classified_ad
+thumbs-up -> thumbs_up
+egg industry -> egg_industry
+non-communist -> non_communist
+course correction -> course_correction
+cable tv -> cable_tv
+write-in -> write_in
+seven-nation -> seven_nation
+mid-afternoon -> mid_afternoon
+cod liver -> cod_liver
+two income -> two_income
+world class -> world_class
+drop-off -> drop_off
+money-laundering -> money_laundering
+conflict-of-interest -> conflict_of_interest
+stop-loss -> stop_loss
+capital gains -> capital_gains
+conflict of interest -> conflict_of_interest
+home improvement -> home_improvement
+after-hours -> after_hours
+banquet hall -> banquet_hall
+box office -> box_office
+dual-trading -> dual_trading
+blood clot -> blood_clot
+college sports -> college_sports
+full-year -> full_year
+self-rule -> self_rule
+sinking fund -> sinking_fund
+carbon dioxide -> carbon_dioxide
+due process -> due_process
+death sentence -> death_sentence
+coming-out -> coming_out
+market system -> market_system
+swearing-in -> swearing_in
+free market -> free_market
+cease-fire -> ceasefire
+one-off -> one_off
+tie-up -> tie_up
+foreign exchange -> foreign_exchange
+to-do -> to_do
+human rights -> human_rights
+fast food -> fast_food
+assembly line -> assembly_line
+farm machine -> farm_machine
+self-help -> self_help
+two-thirds -> two_thirds
+palm tree -> palm_tree
+reagan era -> reagan_era
+staff reduction -> staff_reduction
+middle class -> middle_class
+mountain bike -> mountain_bike
+x-ray -> x_ray
