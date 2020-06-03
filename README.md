@@ -61,25 +61,13 @@ Input: data, models, numpy files from extracted_embeddings
 Output: models (saving models during training), stdout (reports performance)
 
 ## References
-* Dima, Corina. “On the compositionality and semantic interpretation of English noun compounds”.
-In: Proceedings of the 1st Workshop on Representation Learning for NLP. 2016, pp. 27–
-39.
-* Dima, Corina and Erhard Hinrichs. “Automatic noun compound interpretation using deep neural
-networks and word embeddings”. In: Proceedings of the 11th International Conference on
-Computational Semantics. 2015, pp. 173–183.
-* Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S Corrado, and Jeff Dean. “Distributed representations
-of words and phrases and their compositionality”. In: Advances in neural information
-processing systems. 2013, pp. 3111–3119.
-* Ó Séaghdha, Diarmuid. Learning compound noun semantics. Tech. rep. University of Cambridge,
-Computer Laboratory, 2008.
-* Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. “GloVe: Global Vectors for
-Word Representation”. In: Empirical Methods in Natural Language Processing (EMNLP). 2014,
-pp. 1532–1543. url: http://www.aclweb.org/anthology/D14-1162.
-* Tratz, Stephen. Semantically-enriched parsing for natural language understanding. University of
-Southern California, 2011.
-* Tratz, Stephen and Eduard Hovy. “A taxonomy, dataset, and classifier for automatic noun compound
-interpretation”. In: Proceedings of the 48th Annual Meeting of the Association for Computational
-Linguistics. Association for Computational Linguistics. 2010, pp. 678–687.
+* Dima, Corina. “On the compositionality and semantic interpretation of English noun compounds”. In: Proceedings of the 1st Workshop on Representation Learning for NLP. 2016, pp. 27–39.
+* Dima, Corina and Erhard Hinrichs. “Automatic noun compound interpretation using deep neural networks and word embeddings”. In: Proceedings of the 11th International Conference on Computational Semantics. 2015, pp. 173–183.
+* Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S Corrado, and Jeff Dean. “Distributed representations of words and phrases and their compositionality”. In: Advances in neural information processing systems. 2013, pp. 3111–3119.
+* Ó Séaghdha, Diarmuid. Learning compound noun semantics. Tech. rep. University of Cambridge, Computer Laboratory, 2008.
+* Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. “GloVe: Global Vectors for Word Representation”. In: Empirical Methods in Natural Language Processing (EMNLP). 2014, pp. 1532–1543. url: http://www.aclweb.org/anthology/D14-1162.
+* Tratz, Stephen. Semantically-enriched parsing for natural language understanding. University of Southern California, 2011.
+* Tratz, Stephen and Eduard Hovy. “A taxonomy, dataset, and classifier for automatic noun compound interpretation”. In: Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics. Association for Computational Linguistics. 2010, pp. 678–687.
 
 ## License
 I do not own the datasets and the pre-trained embeddings, thus they are not included in this repository.
