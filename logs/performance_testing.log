@@ -1,0 +1,160 @@
+models/tratz/finetuned/model_glove.6B.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.7379400386260107 
+
+models/tratz/finetuned/model_glove.42B.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.7514993598128547 
+
+models/tratz/finetuned/model_glove.840B.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.7541069219950125 
+
+models/tratz/finetuned/model_w2v.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.7645371691499881 
+
+models/tratz/finetuned/model_w2v_1000.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.7671447309824447 
+
+models/tratz/finetuned/model_rand_emb.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.72359844795495 
+
+models/tratz/finetuned/model_glove.6B_w2v_1000.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.768970024340933 
+
+models/tratz/finetuned/model_glove.840B_w2v_1000.pt
+fine-tuning on
+data/tratz/test.txt
+Accuracy Test Set:  0.7637549006565919 
+
+models/tratz/not_finetuned/model_glove.6B.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7165580308926929 
+
+models/tratz/not_finetuned/model_glove.42B.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7355932325629865 
+
+models/tratz/not_finetuned/model_glove.840B.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7588005331302404 
+
+models/tratz/not_finetuned/model_w2v.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7629726320466287 
+
+models/tratz/not_finetuned/model_w2v_1000.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7585397767002611 
+
+models/tratz/not_finetuned/model_rand_emb.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.725684497685134 
+
+models/tratz/not_finetuned/model_glove.6B_w2v_1000.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7697522926594785 
+
+models/tratz/not_finetuned/model_glove.840B_w2v_1000.pt
+fine-tuning off
+data/tratz/test.txt
+Accuracy Test Set:  0.7739243917701453 
+
+models/oseaghdha/finetuned/model_glove.6B.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5172413908715906 
+
+models/oseaghdha/finetuned/model_glove.42B.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.534482770438852 
+
+models/oseaghdha/finetuned/model_glove.840B.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5551724269472319 
+
+models/oseaghdha/finetuned/model_w2v.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5405172525808729 
+
+models/oseaghdha/finetuned/model_w2v_1000.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5336207010108849 
+
+models/oseaghdha/finetuned/model_rand_emb.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.37327587142072877 
+
+models/oseaghdha/finetuned/model_glove.6B_w2v_1000.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5198275983847421 
+
+models/oseaghdha/finetuned/model_glove.840B_w2v_1000.pt
+fine-tuning on
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5681034609161574 
+
+models/oseaghdha/not_finetuned/model_glove.6B.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.4991379426471118 
+
+models/oseaghdha/not_finetuned/model_glove.42B.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5655172541737556 
+
+models/oseaghdha/not_finetuned/model_glove.840B.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5543103585469311 
+
+models/oseaghdha/not_finetuned/model_w2v.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5474138044077774 
+
+models/oseaghdha/not_finetuned/model_w2v_1000.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5267241486701472 
+
+models/oseaghdha/not_finetuned/model_rand_emb.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.35689656025376815 
+
+models/oseaghdha/not_finetuned/model_glove.6B_w2v_1000.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5163793222143732 
+
+models/oseaghdha/not_finetuned/model_glove.840B_w2v_1000.pt
+fine-tuning off
+data/oseaghdha/test.txt
+Accuracy Test Set:  0.5853448399695856 
+

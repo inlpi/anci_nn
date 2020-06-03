@@ -1,0 +1,1217 @@
+1
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.008166191661335
+Val   Epoch:  1  Loss on Val   Set:  1.2816821819287725
+Val   Epoch:  1  Accuracy Val  Set:  0.6420139016894003 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0633679880691262
+Val   Epoch:  2  Loss on Val   Set:  1.1124509221796568
+Val   Epoch:  2  Accuracy Val  Set:  0.6826389015186578 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8216640346835218
+Val   Epoch:  3  Loss on Val   Set:  1.0538351064897142
+Val   Epoch:  3  Accuracy Val  Set:  0.702430568014582 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6744879697073282
+Val   Epoch:  4  Loss on Val   Set:  1.0255992676635894
+Val   Epoch:  4  Accuracy Val  Set:  0.7211805675954869 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5702501058928628
+Val   Epoch:  5  Loss on Val   Set:  1.0134203526443646
+Val   Epoch:  5  Accuracy Val  Set:  0.7284722338275363 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.49179852720727224
+Val   Epoch:  6  Loss on Val   Set:  1.0086478721350431
+Val   Epoch:  6  Accuracy Val  Set:  0.734722234075889 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.4304000232938227
+Val   Epoch:  7  Loss on Val   Set:  1.0054279346756327
+Val   Epoch:  7  Accuracy Val  Set:  0.739930567642053 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.3812120350183227
+Val   Epoch:  8  Loss on Val   Set:  1.0018166455459625
+Val   Epoch:  8  Accuracy Val  Set:  0.7420139005407691 
+
+      Epoch:  9  Learning Rate:      0.3
+Train Epoch:  9  Loss on Train Set:  0.28942854998695805
+Val   Epoch:  9  Loss on Val   Set:  0.933470902244153
+Val   Epoch:  9  Accuracy Val  Set:  0.7649305659191062 
+
+      Epoch:  10  Learning Rate:      0.3
+Train Epoch:  10  Loss on Train Set:  0.26317317049168426
+Val   Epoch:  10  Loss on Val   Set:  0.9351509985693459
+Val   Epoch:  10  Accuracy Val  Set:  0.764930565841496 
+
+      Epoch:  11  Learning Rate:      0.3
+Train Epoch:  11  Loss on Train Set:  0.24964997369022204
+Val   Epoch:  11  Loss on Val   Set:  0.9364602709065366
+Val   Epoch:  11  Accuracy Val  Set:  0.7649305663071573 
+
+2
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.015496987938912
+Val   Epoch:  1  Loss on Val   Set:  1.276654463300171
+Val   Epoch:  1  Accuracy Val  Set:  0.6368055689769486 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0712610860183451
+Val   Epoch:  2  Loss on Val   Set:  1.0969543510388273
+Val   Epoch:  2  Accuracy Val  Set:  0.7045139017670105 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8232983350000366
+Val   Epoch:  3  Loss on Val   Set:  1.0449603267770726
+Val   Epoch:  3  Accuracy Val  Set:  0.718055568014582 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.672286680541079
+Val   Epoch:  4  Loss on Val   Set:  1.0281216162062872
+Val   Epoch:  4  Accuracy Val  Set:  0.7170139010995626 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5653299780758733
+Val   Epoch:  5  Loss on Val   Set:  1.0208399792803295
+Val   Epoch:  5  Accuracy Val  Set:  0.7253472340138009 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.4847996273049184
+Val   Epoch:  6  Loss on Val   Set:  1.0162274721490878
+Val   Epoch:  6  Accuracy Val  Set:  0.7180555673160901 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.42191697962072705
+Val   Epoch:  7  Loss on Val   Set:  1.013981141358575
+Val   Epoch:  7  Accuracy Val  Set:  0.7243055673316121 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.37206634374807873
+Val   Epoch:  8  Loss on Val   Set:  1.0128899553407489
+Val   Epoch:  8  Accuracy Val  Set:  0.7274305670677373 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.33234179693873045
+Val   Epoch:  9  Loss on Val   Set:  1.0118125987234332
+Val   Epoch:  9  Accuracy Val  Set:  0.7357639005252471 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.30050853491174584
+Val   Epoch:  10  Loss on Val   Set:  1.011085272798179
+Val   Epoch:  10  Accuracy Val  Set:  0.7347222339982787 
+
+      Epoch:  11  Learning Rate:      0.9
+Train Epoch:  11  Loss on Train Set:  0.274910721348154
+Val   Epoch:  11  Loss on Val   Set:  1.0100857816432836
+Val   Epoch:  11  Accuracy Val  Set:  0.7305555674247444 
+
+      Epoch:  12  Learning Rate:      0.9
+Train Epoch:  12  Loss on Train Set:  0.2542514996904904
+Val   Epoch:  12  Loss on Val   Set:  1.008653263891271
+Val   Epoch:  12  Accuracy Val  Set:  0.7295139008201659 
+
+      Epoch:  13  Learning Rate:      0.9
+Train Epoch:  13  Loss on Train Set:  0.23750995717720416
+Val   Epoch:  13  Loss on Val   Set:  1.0067127259559736
+Val   Epoch:  13  Accuracy Val  Set:  0.7347222338430583 
+
+      Epoch:  14  Learning Rate:      0.9
+Train Epoch:  14  Loss on Train Set:  0.22386738951330928
+Val   Epoch:  14  Loss on Val   Set:  1.0043604433546232
+Val   Epoch:  14  Accuracy Val  Set:  0.7388889005718132 
+
+      Epoch:  15  Learning Rate:      0.9
+Train Epoch:  15  Loss on Train Set:  0.21268654150637833
+Val   Epoch:  15  Loss on Val   Set:  1.0017090696370967
+Val   Epoch:  15  Accuracy Val  Set:  0.7378472339672347 
+
+      Epoch:  16  Learning Rate:      0.9
+Train Epoch:  16  Loss on Train Set:  0.2034689870464668
+Val   Epoch:  16  Loss on Val   Set:  0.998882404857189
+Val   Epoch:  16  Accuracy Val  Set:  0.7368055673626562 
+
+      Epoch:  17  Learning Rate:      0.9
+Train Epoch:  17  Loss on Train Set:  0.1958210307834738
+Val   Epoch:  17  Loss on Val   Set:  0.9960028025234351
+Val   Epoch:  17  Accuracy Val  Set:  0.739930567642053 
+
+      Epoch:  18  Learning Rate:      0.9
+Train Epoch:  18  Loss on Train Set:  0.18942031452392416
+Val   Epoch:  18  Loss on Val   Set:  0.9931530990143074
+Val   Epoch:  18  Accuracy Val  Set:  0.739930567642053 
+
+      Epoch:  19  Learning Rate:      0.9
+Train Epoch:  19  Loss on Train Set:  0.18400953665485725
+Val   Epoch:  19  Loss on Val   Set:  0.9903676627654932
+Val   Epoch:  19  Accuracy Val  Set:  0.7409722344018519 
+
+      Epoch:  20  Learning Rate:      0.3
+Train Epoch:  20  Loss on Train Set:  0.1587562546121519
+Val   Epoch:  20  Loss on Val   Set:  0.9537730569160582
+Val   Epoch:  20  Accuracy Val  Set:  0.7472222340293229 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.15356871257400012
+Val   Epoch:  21  Loss on Val   Set:  0.9516575233089194
+Val   Epoch:  21  Accuracy Val  Set:  0.748263900478681 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.1525813347703185
+Val   Epoch:  22  Loss on Val   Set:  0.9498934299723866
+Val   Epoch:  22  Accuracy Val  Set:  0.748263900478681 
+
+      Epoch:  23  Learning Rate:      0.3
+Train Epoch:  23  Loss on Train Set:  0.15219854663120339
+Val   Epoch:  23  Loss on Val   Set:  0.9483840199997454
+Val   Epoch:  23  Accuracy Val  Set:  0.750347233687838 
+
+      Epoch:  24  Learning Rate:      0.3
+Train Epoch:  24  Loss on Train Set:  0.1519364961055992
+Val   Epoch:  24  Loss on Val   Set:  0.9470778689549965
+Val   Epoch:  24  Accuracy Val  Set:  0.750347233687838 
+
+      Epoch:  25  Learning Rate:      0.3
+Train Epoch:  25  Loss on Train Set:  0.1516678395744111
+Val   Epoch:  25  Loss on Val   Set:  0.9459247517806944
+Val   Epoch:  25  Accuracy Val  Set:  0.7513889002924165 
+
+      Epoch:  26  Learning Rate:      0.3
+Train Epoch:  26  Loss on Train Set:  0.1513563529726004
+Val   Epoch:  26  Loss on Val   Set:  0.9448933014718932
+Val   Epoch:  26  Accuracy Val  Set:  0.7513889002924165 
+
+      Epoch:  27  Learning Rate:      0.3
+Train Epoch:  27  Loss on Train Set:  0.15099604525122948
+Val   Epoch:  27  Loss on Val   Set:  0.9439515263123516
+Val   Epoch:  27  Accuracy Val  Set:  0.7534722335015734 
+
+      Epoch:  28  Learning Rate:      0.3
+Train Epoch:  28  Loss on Train Set:  0.1505924693036406
+Val   Epoch:  28  Loss on Val   Set:  0.9430800230281117
+Val   Epoch:  28  Accuracy Val  Set:  0.7534722335015734 
+
+      Epoch:  29  Learning Rate:      0.3
+Train Epoch:  29  Loss on Train Set:  0.15015418962711596
+Val   Epoch:  29  Loss on Val   Set:  0.9422659461949175
+Val   Epoch:  29  Accuracy Val  Set:  0.7534722335015734 
+
+3
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.017543666857368
+Val   Epoch:  1  Loss on Val   Set:  1.2936108115827665
+Val   Epoch:  1  Accuracy Val  Set:  0.6368055675799648 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0658088662073784
+Val   Epoch:  2  Loss on Val   Set:  1.1170053566650797
+Val   Epoch:  2  Accuracy Val  Set:  0.6899305688372502 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.81964034915927
+Val   Epoch:  3  Loss on Val   Set:  1.0623741189095501
+Val   Epoch:  3  Accuracy Val  Set:  0.702430568713074 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6712497448877263
+Val   Epoch:  4  Loss on Val   Set:  1.0376386816011898
+Val   Epoch:  4  Accuracy Val  Set:  0.7065972346657267 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.566707129614031
+Val   Epoch:  5  Loss on Val   Set:  1.0252008225846414
+Val   Epoch:  5  Accuracy Val  Set:  0.7211805677507073 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.4873837688211909
+Val   Epoch:  6  Loss on Val   Set:  1.0207603297312744
+Val   Epoch:  6  Accuracy Val  Set:  0.7243055675644428 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.4251644131958403
+Val   Epoch:  7  Loss on Val   Set:  1.0192182510412142
+Val   Epoch:  7  Accuracy Val  Set:  0.7295139004321148 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.3756305289954769
+Val   Epoch:  8  Loss on Val   Set:  1.0191704790389242
+Val   Epoch:  8  Accuracy Val  Set:  0.7305555674247444 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.33605591803081086
+Val   Epoch:  9  Loss on Val   Set:  1.0193643363600131
+Val   Epoch:  9  Accuracy Val  Set:  0.723263900882254 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.3042701616078902
+Val   Epoch:  10  Loss on Val   Set:  1.0201222194543031
+Val   Epoch:  10  Accuracy Val  Set:  0.7211805677507073 
+
+      Epoch:  11  Learning Rate:      0.9
+Train Epoch:  11  Loss on Train Set:  0.27864437977369083
+Val   Epoch:  11  Loss on Val   Set:  1.0211872973644252
+Val   Epoch:  11  Accuracy Val  Set:  0.7243055677196631 
+
+      Epoch:  12  Learning Rate:      0.9
+Train Epoch:  12  Loss on Train Set:  0.25789329743813355
+Val   Epoch:  12  Loss on Val   Set:  1.021744777574592
+Val   Epoch:  12  Accuracy Val  Set:  0.7263889010840406 
+
+      Epoch:  13  Learning Rate:      0.9
+Train Epoch:  13  Loss on Train Set:  0.24096582637012273
+Val   Epoch:  13  Loss on Val   Set:  1.021580202660213
+Val   Epoch:  13  Accuracy Val  Set:  0.7305555678127954 
+
+      Epoch:  14  Learning Rate:      0.9
+Train Epoch:  14  Loss on Train Set:  0.22708633037918508
+Val   Epoch:  14  Loss on Val   Set:  1.020755036069507
+Val   Epoch:  14  Accuracy Val  Set:  0.7253472348675132 
+
+      Epoch:  15  Learning Rate:      0.9
+Train Epoch:  15  Loss on Train Set:  0.21565928035911508
+Val   Epoch:  15  Loss on Val   Set:  1.0194674632851577
+Val   Epoch:  15  Accuracy Val  Set:  0.7305555678904057 
+
+      Epoch:  16  Learning Rate:      0.9
+Train Epoch:  16  Loss on Train Set:  0.20619995129065752
+Val   Epoch:  16  Loss on Val   Set:  1.017882640992563
+Val   Epoch:  16  Accuracy Val  Set:  0.732638901254783 
+
+      Epoch:  17  Learning Rate:      0.9
+Train Epoch:  17  Loss on Train Set:  0.19831790508787947
+Val   Epoch:  17  Loss on Val   Set:  1.0161121076186344
+Val   Epoch:  17  Accuracy Val  Set:  0.7336805678593615 
+
+      Epoch:  18  Learning Rate:      0.9
+Train Epoch:  18  Loss on Train Set:  0.19169975385227336
+Val   Epoch:  18  Loss on Val   Set:  1.0142194952010566
+Val   Epoch:  18  Accuracy Val  Set:  0.735763901223739 
+
+      Epoch:  19  Learning Rate:      0.9
+Train Epoch:  19  Loss on Train Set:  0.18609514069279576
+Val   Epoch:  19  Loss on Val   Set:  1.0122399069174814
+Val   Epoch:  19  Accuracy Val  Set:  0.737847234432896 
+
+      Epoch:  20  Learning Rate:      0.9
+Train Epoch:  20  Loss on Train Set:  0.18130785401461086
+Val   Epoch:  20  Loss on Val   Set:  1.0101934807316866
+Val   Epoch:  20  Accuracy Val  Set:  0.74201390085121 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.15682651491780786
+Val   Epoch:  21  Loss on Val   Set:  0.9729496266954811
+Val   Epoch:  21  Accuracy Val  Set:  0.7513889003700266 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.15210510768033092
+Val   Epoch:  22  Loss on Val   Set:  0.970348442987112
+Val   Epoch:  22  Accuracy Val  Set:  0.7513889005252471 
+
+      Epoch:  23  Learning Rate:      0.3
+Train Epoch:  23  Loss on Train Set:  0.15127532319791995
+Val   Epoch:  23  Loss on Val   Set:  0.9682131379571123
+Val   Epoch:  23  Accuracy Val  Set:  0.7513889005252471 
+
+4
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.017205997830984
+Val   Epoch:  1  Loss on Val   Set:  1.2887989255832508
+Val   Epoch:  1  Accuracy Val  Set:  0.6326389020929734 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.070513239563958
+Val   Epoch:  2  Loss on Val   Set:  1.1074742873897776
+Val   Epoch:  2  Accuracy Val  Set:  0.7013889011771729 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8248382416118271
+Val   Epoch:  3  Loss on Val   Set:  1.0474354019388556
+Val   Epoch:  3  Accuracy Val  Set:  0.7232639009598643 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6737880738446892
+Val   Epoch:  4  Loss on Val   Set:  1.0273996820906177
+Val   Epoch:  4  Accuracy Val  Set:  0.7284722336723158 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5672474758127263
+Val   Epoch:  5  Loss on Val   Set:  1.0267634772559784
+Val   Epoch:  5  Accuracy Val  Set:  0.7274305670677373 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.4871318553559477
+Val   Epoch:  6  Loss on Val   Set:  1.026938267343212
+Val   Epoch:  6  Accuracy Val  Set:  0.7305555671919137 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.42475873902276423
+Val   Epoch:  7  Loss on Val   Set:  1.025754411656332
+Val   Epoch:  7  Accuracy Val  Set:  0.7368055675178766 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.3751520847165458
+Val   Epoch:  8  Loss on Val   Set:  1.0240099890700851
+Val   Epoch:  8  Accuracy Val  Set:  0.7368055675178766 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.33532301563832445
+Val   Epoch:  9  Loss on Val   Set:  1.0217995393031742
+Val   Epoch:  9  Accuracy Val  Set:  0.7336805677041411 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.30319505145071074
+Val   Epoch:  10  Loss on Val   Set:  1.0196230963192647
+Val   Epoch:  10  Accuracy Val  Set:  0.7357639009132981 
+
+      Epoch:  11  Learning Rate:      0.9
+Train Epoch:  11  Loss on Train Set:  0.27719326254294563
+Val   Epoch:  11  Loss on Val   Set:  1.01732983730714
+Val   Epoch:  11  Accuracy Val  Set:  0.7357639010685185 
+
+      Epoch:  12  Learning Rate:      0.9
+Train Epoch:  12  Loss on Train Set:  0.25607692559927614
+Val   Epoch:  12  Loss on Val   Set:  1.0147816405224148
+Val   Epoch:  12  Accuracy Val  Set:  0.738888900882254 
+
+      Epoch:  13  Learning Rate:      0.9
+Train Epoch:  13  Loss on Train Set:  0.23890746330839782
+Val   Epoch:  13  Loss on Val   Set:  1.0120190885306026
+Val   Epoch:  13  Accuracy Val  Set:  0.7378472341224551 
+
+      Epoch:  14  Learning Rate:      0.9
+Train Epoch:  14  Loss on Train Set:  0.22490973933421662
+Val   Epoch:  14  Loss on Val   Set:  1.009057369393607
+Val   Epoch:  14  Accuracy Val  Set:  0.7378472339672347 
+
+      Epoch:  15  Learning Rate:      0.9
+Train Epoch:  15  Loss on Train Set:  0.21343977332140127
+Val   Epoch:  15  Loss on Val   Set:  1.0058071764506167
+Val   Epoch:  15  Accuracy Val  Set:  0.743055567300568 
+
+      Epoch:  16  Learning Rate:      0.3
+Train Epoch:  16  Loss on Train Set:  0.1771791887039979
+Val   Epoch:  16  Loss on Val   Set:  0.9554933179557944
+Val   Epoch:  16  Accuracy Val  Set:  0.7565972331600884 
+
+      Epoch:  17  Learning Rate:      0.3
+Train Epoch:  17  Loss on Train Set:  0.16879039153469003
+Val   Epoch:  17  Loss on Val   Set:  0.9529070063387431
+Val   Epoch:  17  Accuracy Val  Set:  0.7597222332842648 
+
+      Epoch:  18  Learning Rate:      0.3
+Train Epoch:  18  Loss on Train Set:  0.16634576277000954
+Val   Epoch:  18  Loss on Val   Set:  0.9510063877921008
+Val   Epoch:  18  Accuracy Val  Set:  0.7607639000440637 
+
+      Epoch:  19  Learning Rate:      0.3
+Train Epoch:  19  Loss on Train Set:  0.16488584879807325
+Val   Epoch:  19  Loss on Val   Set:  0.9494454310479341
+Val   Epoch:  19  Accuracy Val  Set:  0.7618055668038627 
+
+      Epoch:  20  Learning Rate:      0.3
+Train Epoch:  20  Loss on Train Set:  0.16371188739693976
+Val   Epoch:  20  Loss on Val   Set:  0.948064400528286
+Val   Epoch:  20  Accuracy Val  Set:  0.7628472335636616 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.16263450501115945
+Val   Epoch:  21  Loss on Val   Set:  0.9468023602288062
+Val   Epoch:  21  Accuracy Val  Set:  0.764930566928039 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.16159324897729443
+Val   Epoch:  22  Loss on Val   Set:  0.9456285465566907
+Val   Epoch:  22  Accuracy Val  Set:  0.762847233718882 
+
+      Epoch:  23  Learning Rate:      0.3
+Train Epoch:  23  Loss on Train Set:  0.16056987315593915
+Val   Epoch:  23  Loss on Val   Set:  0.9445277939618487
+Val   Epoch:  23  Accuracy Val  Set:  0.7638889002458503 
+
+      Epoch:  24  Learning Rate:      0.3
+Train Epoch:  24  Loss on Train Set:  0.15956170888288398
+Val   Epoch:  24  Loss on Val   Set:  0.9434887705380485
+Val   Epoch:  24  Accuracy Val  Set:  0.7628472336412718 
+
+      Epoch:  25  Learning Rate:      0.3
+Train Epoch:  25  Loss on Train Set:  0.15857173073839165
+Val   Epoch:  25  Loss on Val   Set:  0.9425025204060754
+Val   Epoch:  25  Accuracy Val  Set:  0.7638889002458503 
+
+      Epoch:  26  Learning Rate:      0.3
+Train Epoch:  26  Loss on Train Set:  0.15760412411892263
+Val   Epoch:  26  Loss on Val   Set:  0.9415664671396371
+Val   Epoch:  26  Accuracy Val  Set:  0.7638889002458503 
+
+      Epoch:  27  Learning Rate:      0.3
+Train Epoch:  27  Loss on Train Set:  0.1566620622440737
+Val   Epoch:  27  Loss on Val   Set:  0.940674672301005
+Val   Epoch:  27  Accuracy Val  Set:  0.7638889002458503 
+
+5
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.0155529566783206
+Val   Epoch:  1  Loss on Val   Set:  1.2916461440424125
+Val   Epoch:  1  Accuracy Val  Set:  0.6315972351003438 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0783268656113711
+Val   Epoch:  2  Loss on Val   Set:  1.1081849598364595
+Val   Epoch:  2  Accuracy Val  Set:  0.6909722345105062 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8287247773329549
+Val   Epoch:  3  Loss on Val   Set:  1.0471160113617468
+Val   Epoch:  3  Accuracy Val  Set:  0.7118055673781782 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6779242695475136
+Val   Epoch:  4  Loss on Val   Set:  1.0251537960915205
+Val   Epoch:  4  Accuracy Val  Set:  0.7243055669435611 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5715040524880902
+Val   Epoch:  5  Loss on Val   Set:  1.019884851052969
+Val   Epoch:  5  Accuracy Val  Set:  0.725347234091411 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.49123403539007954
+Val   Epoch:  6  Loss on Val   Set:  1.0209210364070411
+Val   Epoch:  6  Accuracy Val  Set:  0.7315972337964922 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.428327196808352
+Val   Epoch:  7  Loss on Val   Set:  1.0218434298294596
+Val   Epoch:  7  Accuracy Val  Set:  0.7378472340448449 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.3784823958981859
+Val   Epoch:  8  Loss on Val   Set:  1.0238757260231068
+Val   Epoch:  8  Accuracy Val  Set:  0.7368055675954869 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.3387211229281614
+Val   Epoch:  9  Loss on Val   Set:  1.0259779957292874
+Val   Epoch:  9  Accuracy Val  Set:  0.7399305672540019 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.30678132766516353
+Val   Epoch:  10  Loss on Val   Set:  1.02719315825622
+Val   Epoch:  10  Accuracy Val  Set:  0.7440972336723158 
+
+      Epoch:  11  Learning Rate:      0.3
+Train Epoch:  11  Loss on Train Set:  0.23889045851051072
+Val   Epoch:  11  Loss on Val   Set:  0.9664818121309509
+Val   Epoch:  11  Accuracy Val  Set:  0.7555555666331202 
+
+      Epoch:  12  Learning Rate:      0.3
+Train Epoch:  12  Loss on Train Set:  0.22059329227463678
+Val   Epoch:  12  Loss on Val   Set:  0.9663501867520002
+Val   Epoch:  12  Accuracy Val  Set:  0.7513888999043653 
+
+      Epoch:  13  Learning Rate:      0.3
+Train Epoch:  13  Loss on Train Set:  0.21228121936740257
+Val   Epoch:  13  Loss on Val   Set:  0.9668102153300424
+Val   Epoch:  13  Accuracy Val  Set:  0.7534722331911325 
+
+      Epoch:  14  Learning Rate:      0.3
+Train Epoch:  14  Loss on Train Set:  0.2062007063953919
+Val   Epoch:  14  Loss on Val   Set:  0.9673382560819542
+Val   Epoch:  14  Accuracy Val  Set:  0.752430566586554 
+
+      Epoch:  15  Learning Rate:      0.3
+Train Epoch:  15  Loss on Train Set:  0.2011167241982881
+Val   Epoch:  15  Loss on Val   Set:  0.9677816586117842
+Val   Epoch:  15  Accuracy Val  Set:  0.7493055667728186 
+
+      Epoch:  16  Learning Rate:      0.3
+Train Epoch:  16  Loss on Train Set:  0.19664801876647198
+Val   Epoch:  16  Loss on Val   Set:  0.9680783910177221
+Val   Epoch:  16  Accuracy Val  Set:  0.752430566586554 
+
+      Epoch:  17  Learning Rate:      0.3
+Train Epoch:  17  Loss on Train Set:  0.19263027153224488
+Val   Epoch:  17  Loss on Val   Set:  0.9682141894421269
+Val   Epoch:  17  Accuracy Val  Set:  0.7534722331911325 
+
+      Epoch:  18  Learning Rate:      0.3
+Train Epoch:  18  Loss on Train Set:  0.18897689305597148
+Val   Epoch:  18  Loss on Val   Set:  0.9681973480304199
+Val   Epoch:  18  Accuracy Val  Set:  0.7534722331911325 
+
+      Epoch:  19  Learning Rate:      0.3
+Train Epoch:  19  Loss on Train Set:  0.18563475199957574
+Val   Epoch:  19  Loss on Val   Set:  0.9680453891584572
+Val   Epoch:  19  Accuracy Val  Set:  0.7524305667417744 
+
+      Epoch:  20  Learning Rate:      0.3
+Train Epoch:  20  Loss on Train Set:  0.18256636712628513
+Val   Epoch:  20  Loss on Val   Set:  0.9677784445229918
+Val   Epoch:  20  Accuracy Val  Set:  0.7534722333463529 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.179742630990854
+Val   Epoch:  21  Loss on Val   Set:  0.9674194437878517
+Val   Epoch:  21  Accuracy Val  Set:  0.7524305667417744 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.17713959441899738
+Val   Epoch:  22  Loss on Val   Set:  0.966983629509438
+Val   Epoch:  22  Accuracy Val  Set:  0.7503472335326175 
+
+      Epoch:  23  Learning Rate:      0.3
+Train Epoch:  23  Loss on Train Set:  0.17473607749939704
+Val   Epoch:  23  Loss on Val   Set:  0.9664892812288599
+Val   Epoch:  23  Accuracy Val  Set:  0.7513889002924165 
+
+      Epoch:  24  Learning Rate:      0.3
+Train Epoch:  24  Loss on Train Set:  0.172513879647332
+Val   Epoch:  24  Loss on Val   Set:  0.9659492026670099
+Val   Epoch:  24  Accuracy Val  Set:  0.7513889002924165 
+
+      Epoch:  25  Learning Rate:      0.3
+Train Epoch:  25  Loss on Train Set:  0.17045626071112902
+Val   Epoch:  25  Loss on Val   Set:  0.9653728068199902
+Val   Epoch:  25  Accuracy Val  Set:  0.7513889002924165 
+
+6
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.0051783562333907
+Val   Epoch:  1  Loss on Val   Set:  1.2837886268971488
+Val   Epoch:  1  Accuracy Val  Set:  0.6368055685888976 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0635014579287245
+Val   Epoch:  2  Loss on Val   Set:  1.095111062983051
+Val   Epoch:  2  Accuracy Val  Set:  0.6940972348675132 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8166786993483681
+Val   Epoch:  3  Loss on Val   Set:  1.0328860076745816
+Val   Epoch:  3  Accuracy Val  Set:  0.7222222341224551 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6683078279951101
+Val   Epoch:  4  Loss on Val   Set:  1.0096017033259461
+Val   Epoch:  4  Accuracy Val  Set:  0.7274305671453476 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5621085657336974
+Val   Epoch:  5  Loss on Val   Set:  0.9993981457725264
+Val   Epoch:  5  Accuracy Val  Set:  0.7357639006028572 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.4817775955847247
+Val   Epoch:  6  Loss on Val   Set:  0.9959044485755536
+Val   Epoch:  6  Accuracy Val  Set:  0.7305555674247444 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.4190749446740737
+Val   Epoch:  7  Loss on Val   Set:  0.9967840444624017
+Val   Epoch:  7  Accuracy Val  Set:  0.7357639008356879 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.3692639859877047
+Val   Epoch:  8  Loss on Val   Set:  0.9987112246417382
+Val   Epoch:  8  Accuracy Val  Set:  0.7368055679835379 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.3296894634623896
+Val   Epoch:  9  Loss on Val   Set:  0.9995469785972091
+Val   Epoch:  9  Accuracy Val  Set:  0.7461805675799648 
+
+      Epoch:  10  Learning Rate:      0.3
+Train Epoch:  10  Loss on Train Set:  0.2535512029296552
+Val   Epoch:  10  Loss on Val   Set:  0.9479434161233561
+Val   Epoch:  10  Accuracy Val  Set:  0.7555555664778998 
+
+      Epoch:  11  Learning Rate:      0.3
+Train Epoch:  11  Loss on Train Set:  0.23257952422480746
+Val   Epoch:  11  Loss on Val   Set:  0.9479510009283937
+Val   Epoch:  11  Accuracy Val  Set:  0.7586805667572966 
+
+      Epoch:  12  Learning Rate:      0.3
+Train Epoch:  12  Loss on Train Set:  0.2228302412714826
+Val   Epoch:  12  Loss on Val   Set:  0.9483154420280092
+Val   Epoch:  12  Accuracy Val  Set:  0.7618055667262524 
+
+      Epoch:  13  Learning Rate:      0.3
+Train Epoch:  13  Loss on Train Set:  0.215550204919633
+Val   Epoch:  13  Loss on Val   Set:  0.9487813858771309
+Val   Epoch:  13  Accuracy Val  Set:  0.7670138997491449 
+
+      Epoch:  14  Learning Rate:      0.3
+Train Epoch:  14  Loss on Train Set:  0.20945133461445023
+Val   Epoch:  14  Loss on Val   Set:  0.9492415919861136
+Val   Epoch:  14  Accuracy Val  Set:  0.7659722331445664 
+
+      Epoch:  15  Learning Rate:      0.3
+Train Epoch:  15  Loss on Train Set:  0.2041163368189235
+Val   Epoch:  15  Loss on Val   Set:  0.9496322682074
+Val   Epoch:  15  Accuracy Val  Set:  0.768055566198503 
+
+      Epoch:  16  Learning Rate:      0.3
+Train Epoch:  16  Loss on Train Set:  0.19935722710112194
+Val   Epoch:  16  Loss on Val   Set:  0.9499276256707768
+Val   Epoch:  16  Accuracy Val  Set:  0.768055566198503 
+
+      Epoch:  17  Learning Rate:      0.3
+Train Epoch:  17  Loss on Train Set:  0.19506948435875615
+Val   Epoch:  17  Loss on Val   Set:  0.950122594028168
+Val   Epoch:  17  Accuracy Val  Set:  0.7690972328030815 
+
+      Epoch:  18  Learning Rate:      0.3
+Train Epoch:  18  Loss on Train Set:  0.19118423171298646
+Val   Epoch:  18  Loss on Val   Set:  0.9502190550313875
+Val   Epoch:  18  Accuracy Val  Set:  0.7701388994852701 
+
+      Epoch:  19  Learning Rate:      0.3
+Train Epoch:  19  Loss on Train Set:  0.18765059334067816
+Val   Epoch:  19  Loss on Val   Set:  0.9502218024475345
+Val   Epoch:  19  Accuracy Val  Set:  0.7690972328806917 
+
+      Epoch:  20  Learning Rate:      0.3
+Train Epoch:  20  Loss on Train Set:  0.1844280621856493
+Val   Epoch:  20  Loss on Val   Set:  0.9501353730011033
+Val   Epoch:  20  Accuracy Val  Set:  0.7670138996715347 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.1814822458047044
+Val   Epoch:  21  Loss on Val   Set:  0.9499695258709835
+Val   Epoch:  21  Accuracy Val  Set:  0.7680555664313337 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.1787832607271713
+Val   Epoch:  22  Loss on Val   Set:  0.9497287218643274
+Val   Epoch:  22  Accuracy Val  Set:  0.7680555664313337 
+
+      Epoch:  23  Learning Rate:      0.3
+Train Epoch:  23  Loss on Train Set:  0.17630536307269032
+Val   Epoch:  23  Loss on Val   Set:  0.9494238303256376
+Val   Epoch:  23  Accuracy Val  Set:  0.7680555664313337 
+
+7
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.018998254736057
+Val   Epoch:  1  Loss on Val   Set:  1.2986874320389081
+Val   Epoch:  1  Accuracy Val  Set:  0.6368055684336772 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.071744034871739
+Val   Epoch:  2  Loss on Val   Set:  1.1213432585354894
+Val   Epoch:  2  Accuracy Val  Set:  0.682638901596268 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8254693513600028
+Val   Epoch:  3  Loss on Val   Set:  1.060645803886776
+Val   Epoch:  3  Accuracy Val  Set:  0.709722234091411 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6771738934646592
+Val   Epoch:  4  Loss on Val   Set:  1.0401202675905854
+Val   Epoch:  4  Accuracy Val  Set:  0.7170139005562911 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5715798377106387
+Val   Epoch:  5  Loss on Val   Set:  1.0342260380275548
+Val   Epoch:  5  Accuracy Val  Set:  0.7222222342776755 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.49120475899128546
+Val   Epoch:  6  Loss on Val   Set:  1.029405402300957
+Val   Epoch:  6  Accuracy Val  Set:  0.7295139008201659 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.42793961320529
+Val   Epoch:  7  Loss on Val   Set:  1.0233712437620852
+Val   Epoch:  7  Accuracy Val  Set:  0.7326389007891217 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.37771736647218057
+Val   Epoch:  8  Loss on Val   Set:  1.0175312125114335
+Val   Epoch:  8  Accuracy Val  Set:  0.7347222339982787 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.33749558688386067
+Val   Epoch:  9  Loss on Val   Set:  1.0115096051886212
+Val   Epoch:  9  Accuracy Val  Set:  0.7315972341845433 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.30519457863596455
+Val   Epoch:  10  Loss on Val   Set:  1.0055616221119028
+Val   Epoch:  10  Accuracy Val  Set:  0.7368055674402664 
+
+      Epoch:  11  Learning Rate:      0.9
+Train Epoch:  11  Loss on Train Set:  0.27924883166497716
+Val   Epoch:  11  Loss on Val   Set:  1.0000929706681443
+Val   Epoch:  11  Accuracy Val  Set:  0.7368055675954869 
+
+      Epoch:  12  Learning Rate:      0.9
+Train Epoch:  12  Loss on Train Set:  0.25829773491172175
+Val   Epoch:  12  Loss on Val   Set:  0.9951237044054627
+Val   Epoch:  12  Accuracy Val  Set:  0.7378472342000654 
+
+      Epoch:  13  Learning Rate:      0.9
+Train Epoch:  13  Loss on Train Set:  0.241306539237729
+Val   Epoch:  13  Loss on Val   Set:  0.9907466029350568
+Val   Epoch:  13  Accuracy Val  Set:  0.7409722341690212 
+
+      Epoch:  14  Learning Rate:      0.3
+Train Epoch:  14  Loss on Train Set:  0.1968649170435505
+Val   Epoch:  14  Loss on Val   Set:  0.9478012033578125
+Val   Epoch:  14  Accuracy Val  Set:  0.7565972332376987 
+
+      Epoch:  15  Learning Rate:      0.3
+Train Epoch:  15  Loss on Train Set:  0.18528552164517087
+Val   Epoch:  15  Loss on Val   Set:  0.9458665828230247
+Val   Epoch:  15  Accuracy Val  Set:  0.7545139001837621 
+
+      Epoch:  16  Learning Rate:      0.3
+Train Epoch:  16  Loss on Train Set:  0.1811667043186216
+Val   Epoch:  16  Loss on Val   Set:  0.9445429947275746
+Val   Epoch:  16  Accuracy Val  Set:  0.7576388999974976 
+
+      Epoch:  17  Learning Rate:      0.3
+Train Epoch:  17  Loss on Train Set:  0.1783752018712505
+Val   Epoch:  17  Loss on Val   Set:  0.9435812587253167
+Val   Epoch:  17  Accuracy Val  Set:  0.7576388998422772 
+
+      Epoch:  18  Learning Rate:      0.3
+Train Epoch:  18  Loss on Train Set:  0.1760665290907483
+Val   Epoch:  18  Loss on Val   Set:  0.9428314464627571
+Val   Epoch:  18  Accuracy Val  Set:  0.7597222330514342 
+
+      Epoch:  19  Learning Rate:      0.3
+Train Epoch:  19  Loss on Train Set:  0.17399451756271778
+Val   Epoch:  19  Loss on Val   Set:  0.9421986226783096
+Val   Epoch:  19  Accuracy Val  Set:  0.7586805662916353 
+
+      Epoch:  20  Learning Rate:      0.3
+Train Epoch:  20  Loss on Train Set:  0.172069006130179
+Val   Epoch:  20  Loss on Val   Set:  0.9416272251740642
+Val   Epoch:  20  Accuracy Val  Set:  0.7597222328962138 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.17025335476253825
+Val   Epoch:  21  Loss on Val   Set:  0.9410894366907693
+Val   Epoch:  21  Accuracy Val  Set:  0.7597222328962138 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.16853200903122825
+Val   Epoch:  22  Loss on Val   Set:  0.9405663251285054
+Val   Epoch:  22  Accuracy Val  Set:  0.7597222328962138 
+
+8
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.0139999006996057
+Val   Epoch:  1  Loss on Val   Set:  1.286271976151814
+Val   Epoch:  1  Accuracy Val  Set:  0.6347222346812487 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0734694716037771
+Val   Epoch:  2  Loss on Val   Set:  1.1144423201913014
+Val   Epoch:  2  Accuracy Val  Set:  0.6878472349296013 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8337751415813511
+Val   Epoch:  3  Loss on Val   Set:  1.0587765153419848
+Val   Epoch:  3  Accuracy Val  Set:  0.7045139013789594 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6874367407359936
+Val   Epoch:  4  Loss on Val   Set:  1.0403535503913492
+Val   Epoch:  4  Accuracy Val  Set:  0.717013900478681 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5824928553672066
+Val   Epoch:  5  Loss on Val   Set:  1.033080221192601
+Val   Epoch:  5  Accuracy Val  Set:  0.7211805675178766 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.5020166257086953
+Val   Epoch:  6  Loss on Val   Set:  1.0305783327300257
+Val   Epoch:  6  Accuracy Val  Set:  0.721180567673097 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.438296021922299
+Val   Epoch:  7  Loss on Val   Set:  1.0302429927202563
+Val   Epoch:  7  Accuracy Val  Set:  0.7243055679524938 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.38706112915546964
+Val   Epoch:  8  Loss on Val   Set:  1.0300203239312395
+Val   Epoch:  8  Accuracy Val  Set:  0.7232639012703052 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.3456227691711164
+Val   Epoch:  9  Loss on Val   Set:  1.029727709465078
+Val   Epoch:  9  Accuracy Val  Set:  0.7253472349451234 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.3120076554424678
+Val   Epoch:  10  Loss on Val   Set:  1.0292501027142862
+Val   Epoch:  10  Accuracy Val  Set:  0.7295139013634374 
+
+      Epoch:  11  Learning Rate:      0.9
+Train Epoch:  11  Loss on Train Set:  0.2848391504255081
+Val   Epoch:  11  Loss on Val   Set:  1.02943852658791
+Val   Epoch:  11  Accuracy Val  Set:  0.7326389011771729 
+
+      Epoch:  12  Learning Rate:      0.9
+Train Epoch:  12  Loss on Train Set:  0.26286502906381204
+Val   Epoch:  12  Loss on Val   Set:  1.0293262112876012
+Val   Epoch:  12  Accuracy Val  Set:  0.7284722347588589 
+
+      Epoch:  13  Learning Rate:      0.9
+Train Epoch:  13  Loss on Train Set:  0.2450201314177365
+Val   Epoch:  13  Loss on Val   Set:  1.0286986588059033
+Val   Epoch:  13  Accuracy Val  Set:  0.7347222343863299 
+
+      Epoch:  14  Learning Rate:      0.9
+Train Epoch:  14  Loss on Train Set:  0.23042257953089745
+Val   Epoch:  14  Loss on Val   Set:  1.027530494405558
+Val   Epoch:  14  Accuracy Val  Set:  0.7368055677507073 
+
+      Epoch:  15  Learning Rate:      0.9
+Train Epoch:  15  Loss on Train Set:  0.21840709654710572
+Val   Epoch:  15  Loss on Val   Set:  1.0258994379595
+Val   Epoch:  15  Accuracy Val  Set:  0.7368055678283175 
+
+      Epoch:  16  Learning Rate:      0.9
+Train Epoch:  16  Loss on Train Set:  0.20845317456113963
+Val   Epoch:  16  Loss on Val   Set:  1.0239251339517068
+Val   Epoch:  16  Accuracy Val  Set:  0.739930567642053 
+
+      Epoch:  17  Learning Rate:      0.9
+Train Epoch:  17  Loss on Train Set:  0.20014747046914455
+Val   Epoch:  17  Loss on Val   Set:  1.0217063194674363
+Val   Epoch:  17  Accuracy Val  Set:  0.7399305677196631 
+
+      Epoch:  18  Learning Rate:      0.9
+Train Epoch:  18  Loss on Train Set:  0.19316011486463533
+Val   Epoch:  18  Loss on Val   Set:  1.0193221915105823
+Val   Epoch:  18  Accuracy Val  Set:  0.7430555676886191 
+
+      Epoch:  19  Learning Rate:      0.3
+Train Epoch:  19  Loss on Train Set:  0.16479544925585093
+Val   Epoch:  19  Loss on Val   Set:  0.9760659827006748
+Val   Epoch:  19  Accuracy Val  Set:  0.7565972337809702 
+
+      Epoch:  20  Learning Rate:      0.3
+Train Epoch:  20  Loss on Train Set:  0.1586586629348712
+Val   Epoch:  20  Loss on Val   Set:  0.9746525378504884
+Val   Epoch:  20  Accuracy Val  Set:  0.7576389003855487 
+
+      Epoch:  21  Learning Rate:      0.3
+Train Epoch:  21  Loss on Train Set:  0.15719934164241173
+Val   Epoch:  21  Loss on Val   Set:  0.9730711089844893
+Val   Epoch:  21  Accuracy Val  Set:  0.7586805669901272 
+
+      Epoch:  22  Learning Rate:      0.3
+Train Epoch:  22  Loss on Train Set:  0.15646813020880398
+Val   Epoch:  22  Loss on Val   Set:  0.9715497480307628
+Val   Epoch:  22  Accuracy Val  Set:  0.75659723370336 
+
+      Epoch:  23  Learning Rate:      0.3
+Train Epoch:  23  Loss on Train Set:  0.15591265596574136
+Val   Epoch:  23  Loss on Val   Set:  0.9701157699115962
+Val   Epoch:  23  Accuracy Val  Set:  0.7534722337344041 
+
+      Epoch:  24  Learning Rate:      0.3
+Train Epoch:  24  Loss on Train Set:  0.15538485915078953
+Val   Epoch:  24  Loss on Val   Set:  0.968761413981459
+Val   Epoch:  24  Accuracy Val  Set:  0.754513900494203 
+
+      Epoch:  25  Learning Rate:      0.3
+Train Epoch:  25  Loss on Train Set:  0.15483931125522116
+Val   Epoch:  25  Loss on Val   Set:  0.967476702821538
+Val   Epoch:  25  Accuracy Val  Set:  0.7555555670211712 
+
+      Epoch:  26  Learning Rate:      0.3
+Train Epoch:  26  Loss on Train Set:  0.15426616473604646
+Val   Epoch:  26  Loss on Val   Set:  0.966257016499488
+Val   Epoch:  26  Accuracy Val  Set:  0.7555555670211712 
+
+      Epoch:  27  Learning Rate:      0.3
+Train Epoch:  27  Loss on Train Set:  0.15366760707612973
+Val   Epoch:  27  Loss on Val   Set:  0.9650947070549591
+Val   Epoch:  27  Accuracy Val  Set:  0.7545139004165927 
+
+      Epoch:  28  Learning Rate:      0.3
+Train Epoch:  28  Loss on Train Set:  0.15305028758390898
+Val   Epoch:  28  Loss on Val   Set:  0.9639832203635402
+Val   Epoch:  28  Accuracy Val  Set:  0.7545139004165927 
+
+      Epoch:  29  Learning Rate:      0.3
+Train Epoch:  29  Loss on Train Set:  0.15242115764281788
+Val   Epoch:  29  Loss on Val   Set:  0.9629211523812652
+Val   Epoch:  29  Accuracy Val  Set:  0.7555555670211712 
+
+      Epoch:  30  Learning Rate:      0.3
+Train Epoch:  30  Loss on Train Set:  0.1517880521510535
+Val   Epoch:  30  Loss on Val   Set:  0.9619022820576598
+Val   Epoch:  30  Accuracy Val  Set:  0.7555555670211712 
+
+      Epoch:  31  Learning Rate:      0.3
+Train Epoch:  31  Loss on Train Set:  0.15115560477316928
+Val   Epoch:  31  Loss on Val   Set:  0.9609207774944176
+Val   Epoch:  31  Accuracy Val  Set:  0.7555555670211712 
+
+9
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.005649115163742
+Val   Epoch:  1  Loss on Val   Set:  1.298174046445638
+Val   Epoch:  1  Accuracy Val  Set:  0.6305555679524938 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0699882257202213
+Val   Epoch:  2  Loss on Val   Set:  1.1296816558072653
+Val   Epoch:  2  Accuracy Val  Set:  0.6888889017670105 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8280562012375021
+Val   Epoch:  3  Loss on Val   Set:  1.0670968850220863
+Val   Epoch:  3  Accuracy Val  Set:  0.702430568713074 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6799753437671945
+Val   Epoch:  4  Loss on Val   Set:  1.0410016255724865
+Val   Epoch:  4  Accuracy Val  Set:  0.7159722346502045 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.5745108540803171
+Val   Epoch:  5  Loss on Val   Set:  1.030980675170819
+Val   Epoch:  5  Accuracy Val  Set:  0.7128472347588589 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.49418263093241255
+Val   Epoch:  6  Loss on Val   Set:  1.022493455534762
+Val   Epoch:  6  Accuracy Val  Set:  0.7128472346036384 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.4307760223634907
+Val   Epoch:  7  Loss on Val   Set:  1.0132381158715968
+Val   Epoch:  7  Accuracy Val  Set:  0.7159722341845433 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.38014057849718325
+Val   Epoch:  8  Loss on Val   Set:  1.0063534704774308
+Val   Epoch:  8  Accuracy Val  Set:  0.7274305676110089 
+
+      Epoch:  9  Learning Rate:      0.9
+Train Epoch:  9  Loss on Train Set:  0.33953040580592675
+Val   Epoch:  9  Loss on Val   Set:  1.0021426671155496
+Val   Epoch:  9  Accuracy Val  Set:  0.7295139009753863 
+
+      Epoch:  10  Learning Rate:      0.9
+Train Epoch:  10  Loss on Train Set:  0.30701360748307915
+Val   Epoch:  10  Loss on Val   Set:  0.9996843022042109
+Val   Epoch:  10  Accuracy Val  Set:  0.7357639006804675 
+
+      Epoch:  11  Learning Rate:      0.9
+Train Epoch:  11  Loss on Train Set:  0.2808830883263133
+Val   Epoch:  11  Loss on Val   Set:  0.9980831356709435
+Val   Epoch:  11  Accuracy Val  Set:  0.7336805671608696 
+
+      Epoch:  12  Learning Rate:      0.9
+Train Epoch:  12  Loss on Train Set:  0.25971130975925544
+Val   Epoch:  12  Loss on Val   Set:  0.9968671759052086
+Val   Epoch:  12  Accuracy Val  Set:  0.736805567285046 
+
+      Epoch:  13  Learning Rate:      0.9
+Train Epoch:  13  Loss on Train Set:  0.24246018602411998
+Val   Epoch:  13  Loss on Val   Set:  0.9957929485317436
+Val   Epoch:  13  Accuracy Val  Set:  0.7378472339672347 
+
+      Epoch:  14  Learning Rate:      0.9
+Train Epoch:  14  Loss on Train Set:  0.2283630785457764
+Val   Epoch:  14  Loss on Val   Set:  0.9946188621591622
+Val   Epoch:  14  Accuracy Val  Set:  0.7388889006494234 
+
+      Epoch:  15  Learning Rate:      0.9
+Train Epoch:  15  Loss on Train Set:  0.21681486763592833
+Val   Epoch:  15  Loss on Val   Set:  0.9932500131593164
+Val   Epoch:  15  Accuracy Val  Set:  0.7378472342000654 
+
+      Epoch:  16  Learning Rate:      0.9
+Train Epoch:  16  Loss on Train Set:  0.20730093260303467
+Val   Epoch:  16  Loss on Val   Set:  0.9917327106474355
+Val   Epoch:  16  Accuracy Val  Set:  0.7336805673160901 
+
+      Epoch:  17  Learning Rate:      0.9
+Train Epoch:  17  Loss on Train Set:  0.19939130181790166
+Val   Epoch:  17  Loss on Val   Set:  0.9901316806402368
+Val   Epoch:  17  Accuracy Val  Set:  0.734722234075889 
+
+      Epoch:  18  Learning Rate:      0.9
+Train Epoch:  18  Loss on Train Set:  0.1927481464778022
+Val   Epoch:  18  Loss on Val   Set:  0.9884833353911139
+Val   Epoch:  18  Accuracy Val  Set:  0.7336805674713105 
+
+      Epoch:  19  Learning Rate:      0.9
+Train Epoch:  19  Loss on Train Set:  0.18711350159833004
+Val   Epoch:  19  Loss on Val   Set:  0.9868114853064375
+Val   Epoch:  19  Accuracy Val  Set:  0.734722234075889 
+
+      Epoch:  20  Learning Rate:      0.9
+Train Epoch:  20  Loss on Train Set:  0.18228988716490283
+Val   Epoch:  20  Loss on Val   Set:  0.9851292281091446
+Val   Epoch:  20  Accuracy Val  Set:  0.7368055674402664 
+
+      Epoch:  21  Learning Rate:      0.9
+Train Epoch:  21  Loss on Train Set:  0.17812496854539017
+Val   Epoch:  21  Loss on Val   Set:  0.9834509858095165
+Val   Epoch:  21  Accuracy Val  Set:  0.7388889007270336 
+
+      Epoch:  22  Learning Rate:      0.9
+Train Epoch:  22  Loss on Train Set:  0.17450049567660453
+Val   Epoch:  22  Loss on Val   Set:  0.9817858296786047
+Val   Epoch:  22  Accuracy Val  Set:  0.738888900882254 
+
+      Epoch:  23  Learning Rate:      0.9
+Train Epoch:  23  Loss on Train Set:  0.17132311031739528
+Val   Epoch:  23  Loss on Val   Set:  0.9801417014289958
+Val   Epoch:  23  Accuracy Val  Set:  0.7399305674868325 
+
+      Epoch:  24  Learning Rate:      0.9
+Train Epoch:  24  Loss on Train Set:  0.16851851179450167
+Val   Epoch:  24  Loss on Val   Set:  0.9785261216893559
+Val   Epoch:  24  Accuracy Val  Set:  0.7420139010064304 
+
+      Epoch:  25  Learning Rate:      0.3
+Train Epoch:  25  Loss on Train Set:  0.14902012728965758
+Val   Epoch:  25  Loss on Val   Set:  0.9520235699698484
+Val   Epoch:  25  Accuracy Val  Set:  0.7493055675489207 
+
+      Epoch:  26  Learning Rate:      0.3
+Train Epoch:  26  Loss on Train Set:  0.1458338089668851
+Val   Epoch:  26  Loss on Val   Set:  0.9497115887109734
+Val   Epoch:  26  Accuracy Val  Set:  0.7513889007580777 
+
+      Epoch:  27  Learning Rate:      0.3
+Train Epoch:  27  Loss on Train Set:  0.1455184395219087
+Val   Epoch:  27  Loss on Val   Set:  0.9480745970019294
+Val   Epoch:  27  Accuracy Val  Set:  0.7524305673626562 
+
+      Epoch:  28  Learning Rate:      0.3
+Train Epoch:  28  Loss on Train Set:  0.14559725213417732
+Val   Epoch:  28  Loss on Val   Set:  0.9467940181105708
+Val   Epoch:  28  Accuracy Val  Set:  0.7524305673626562 
+
+      Epoch:  29  Learning Rate:      0.3
+Train Epoch:  29  Loss on Train Set:  0.14572058527261503
+Val   Epoch:  29  Loss on Val   Set:  0.9457352372604267
+Val   Epoch:  29  Accuracy Val  Set:  0.7524305672074357 
+
+10
+data/tratz/train.txt
+data/tratz/val.txt
+      Epoch:  1  Learning Rate:      0.9
+Train Epoch:  1  Loss on Train Set:  2.016131697904394
+Val   Epoch:  1  Loss on Val   Set:  1.2865066088658448
+Val   Epoch:  1  Accuracy Val  Set:  0.6368055682008466 
+
+      Epoch:  2  Learning Rate:      0.9
+Train Epoch:  2  Loss on Train Set:  1.0721949718577597
+Val   Epoch:  2  Loss on Val   Set:  1.1084622891891438
+Val   Epoch:  2  Accuracy Val  Set:  0.6868055684026331 
+
+      Epoch:  3  Learning Rate:      0.9
+Train Epoch:  3  Loss on Train Set:  0.8250380837591527
+Val   Epoch:  3  Loss on Val   Set:  1.0526798766707846
+Val   Epoch:  3  Accuracy Val  Set:  0.7086805671763917 
+
+      Epoch:  4  Learning Rate:      0.9
+Train Epoch:  4  Loss on Train Set:  0.6754698979819975
+Val   Epoch:  4  Loss on Val   Set:  1.0291268912842497
+Val   Epoch:  4  Accuracy Val  Set:  0.7243055670211712 
+
+      Epoch:  5  Learning Rate:      0.9
+Train Epoch:  5  Loss on Train Set:  0.569432540960667
+Val   Epoch:  5  Loss on Val   Set:  1.0225533552099175
+Val   Epoch:  5  Accuracy Val  Set:  0.729513900509725 
+
+      Epoch:  6  Learning Rate:      0.9
+Train Epoch:  6  Loss on Train Set:  0.48919947747562065
+Val   Epoch:  6  Loss on Val   Set:  1.024501977992865
+Val   Epoch:  6  Accuracy Val  Set:  0.7326389007891217 
+
+      Epoch:  7  Learning Rate:      0.9
+Train Epoch:  7  Loss on Train Set:  0.4261313441854195
+Val   Epoch:  7  Loss on Val   Set:  1.0279358970971468
+Val   Epoch:  7  Accuracy Val  Set:  0.7357639009132981 
+
+      Epoch:  8  Learning Rate:      0.9
+Train Epoch:  8  Loss on Train Set:  0.3757300632599519
+Val   Epoch:  8  Loss on Val   Set:  1.030891258288951
+Val   Epoch:  8  Accuracy Val  Set:  0.7451389005873352 
+
+      Epoch:  9  Learning Rate:      0.3
+Train Epoch:  9  Loss on Train Set:  0.28348751964919894
+Val   Epoch:  9  Loss on Val   Set:  0.957935998463654
+Val   Epoch:  9  Accuracy Val  Set:  0.7628472333308309 
+
+      Epoch:  10  Learning Rate:      0.3
+Train Epoch:  10  Loss on Train Set:  0.25771809704110826
+Val   Epoch:  10  Loss on Val   Set:  0.9606171365594491
+Val   Epoch:  10  Accuracy Val  Set:  0.7586805670677373 
+
+      Epoch:  11  Learning Rate:      0.3
+Train Epoch:  11  Loss on Train Set:  0.24464282796356215
+Val   Epoch:  11  Loss on Val   Set:  0.9633879844768671
+Val   Epoch:  11  Accuracy Val  Set:  0.7607639002768943 
+
+      Epoch:  12  Learning Rate:      0.3
+Train Epoch:  12  Loss on Train Set:  0.23470170972707585
+Val   Epoch:  12  Loss on Val   Set:  0.9655692534821961
+Val   Epoch:  12  Accuracy Val  Set:  0.7628472336412718 
+
+      Epoch:  13  Learning Rate:      0.3
+Train Epoch:  13  Loss on Train Set:  0.22632493010819965
+Val   Epoch:  13  Loss on Val   Set:  0.9672489716225149
+Val   Epoch:  13  Accuracy Val  Set:  0.7649305665399879 
+
+      Epoch:  14  Learning Rate:      0.3
+Train Epoch:  14  Loss on Train Set:  0.21900697602603972
+Val   Epoch:  14  Loss on Val   Set:  0.9685380346879052
+Val   Epoch:  14  Accuracy Val  Set:  0.7659722332997868 
+
+      Epoch:  15  Learning Rate:      0.3
+Train Epoch:  15  Loss on Train Set:  0.2125108216649567
+Val   Epoch:  15  Loss on Val   Set:  0.9695136686884022
+Val   Epoch:  15  Accuracy Val  Set:  0.7680555665089438 
+
+      Epoch:  16  Learning Rate:      0.3
+Train Epoch:  16  Loss on Train Set:  0.20669698348692078
+Val   Epoch:  16  Loss on Val   Set:  0.9702421410377914
+Val   Epoch:  16  Accuracy Val  Set:  0.7680555665089438 
+
+      Epoch:  17  Learning Rate:      0.3
+Train Epoch:  17  Loss on Train Set:  0.20147024263062682
+Val   Epoch:  17  Loss on Val   Set:  0.9707824101424194
+Val   Epoch:  17  Accuracy Val  Set:  0.7680555666641643 
+
+on average  23.7  epochs until convergence
+average accuracy  0.7588889001092564  at time of convergence
